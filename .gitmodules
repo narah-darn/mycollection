@@ -1,0 +1,12 @@
+[submodule "common-src"]
+	path = common-src
+	url = git@github.com:narah-darn/common-src.git
+[submodule "Arjun"]
+	path = Arjun
+	url = git@github.com:s0md3v/Arjun.git
+[submodule "SecLists"]
+	path = SecLists
+	url = git@github.com:danielmiessler/SecLists.git
+[submodule "ffuf"]
+	path = ffuf
+	url = https://github.com/ffuf/ffuf
